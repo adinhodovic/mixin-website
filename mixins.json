@@ -129,6 +129,21 @@
             "name": "grafana",
             "source": "https://github.com/grafana/grafana",
             "subdir": "grafana-mixin"
+        },
+        {
+          "name": "celery-exporter",
+          "source": "https://github.com/danihodovic/celery-exporter",
+          "subdir": "celery-mixin"
+        },
+        {
+          "name": "django-mixin",
+          "source": "https://github.com/adinhodovic/django-mixin",
+          "subdir": ""
+        },
+        {
+          "name": "blackbox-exporter-mixin",
+          "source": "https://github.com/adinhodovic/blackbox-exporter-mixin",
+          "subdir": ""
         }
     ]
 }
